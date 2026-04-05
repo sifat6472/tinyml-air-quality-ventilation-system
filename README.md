@@ -1,6 +1,7 @@
-# 🌿 TinyML-Based Indoor Air Quality Prediction and Ventilation Control System
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# TinyML-Based Indoor Air Quality Prediction and Ventilation Control System
 
-> 🚀 TinyML + Embedded Systems + Automation Project
+-> TinyML + Embedded Systems + Automation Project
 
 ## 📌 Overview
 This project is an intelligent air quality monitoring system that uses TinyML and embedded systems to automatically control ventilation based on real-time environmental conditions.
@@ -107,6 +108,14 @@ Based on the sensor data, a Raspberry Pi runs a TinyML model to classify air qua
 
 ---
 
+## 🛠️ Development Tools
+
+- Thonny IDE (Python development)
+- Arduino IDE
+- Edge Impulse Studio
+
+---
+
 ## 📷 Project Images
 
 ![Sensor](images/sensors.png)  
@@ -148,4 +157,6 @@ Upload `sensor_readings.ino` using Arduino IDE.
 ---
 
 ## 📜 License
-This project is licensed under the MIT License.
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
