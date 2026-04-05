@@ -140,10 +140,10 @@ Upload `sensor_readings.ino` using Arduino IDE.
 
 ## 👨‍💻 Team Members
 
-- 👤 [Member 1](https://github.com/username1) — System Integration  
-- 👤 [Member 2](https://github.com/username2) — Arduino & Sensors  
-- 👤 [Member 3](https://github.com/username3) — Raspberry Pi & ML  
-- 👤 [Member 4](https://github.com/username4) — Documentation & Testing  
+- 👤 [Kazi Md. Juhaer Akhtab](https://github.com/juhaer-10) — System Design
+- 👤 [Junayed Hossain](https://github.com/junayedJ95) — System Design
+- 👤 [Nirob Chandra Bonik](https://github.com/nbanik-dev) — Model Training  
+- 👤 [Shadik Hasan Bappy](https://github.com/antu4742) — Testing 
 
 ---
 
