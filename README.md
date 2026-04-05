@@ -109,11 +109,11 @@ Based on the sensor data, a Raspberry Pi runs a TinyML model to classify air qua
 
 ## 📷 Project Images
 
-![Sensor](images/sensorsjpg)  
-![Fan](images/fan.jpg)   
-![Servo](images/servo.jpg)  
-![OLED](images/oled.jpg)  
-![System](images/system.jpg)  
+![Sensor](images/sensors.png)  
+![Fan](images/fan.png)   
+![Servo](images/servo.png)  
+![OLED](images/oled.png)  
+![System](images/system.png)  
 
 ---
 
