@@ -19,7 +19,7 @@ Based on the sensor data, a Raspberry Pi runs a TinyML model to classify air qua
 
 ## 🎥 Demo Video
 
-👉 [Watch the Full Project Demo]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1MROwH9SBrpOD_QHrbicEzA3MD9c_ZuSn/view))
+👉 [Watch the Full Project Demo](https://drive.google.com/file/d/1MROwH9SBrpOD_QHrbicEzA3MD9c_ZuSn/view)
 
 ---
 
